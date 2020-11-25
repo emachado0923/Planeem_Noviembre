@@ -1,0 +1,288 @@
+@media screen and (max-width: 1360px)and (max-width: 1366px) {
+    .items li {
+        margin: 12px 0;
+    }
+    .button2 {
+        top: 545px;
+    }
+    .SegundoConten3 {
+        height: 43em;
+        width: 32%;
+    }
+    .Segundolist3 {
+        height: 43em;
+        width: 21%;
+    }
+    .parrafoII {
+        margin-left: 22% !important;
+        margin-top: 10% !important;
+        position: relative !important;
+        left: 0% !important;
+    }
+    .parrafito {
+        margin-top: 12%;
+    }
+    .Ahora {
+        width: 14%;
+    }
+    .tablas {
+        height: 284px !important;
+    }
+    .tablas2 {
+        height: 275px;
+    }
+    .opciones3 {
+        /* height: 290px; */
+        padding: 3px;
+        overflow-y: scroll;
+        /* position: absolute; */
+        /* left: 14%; */
+        /* height: 344px;*/
+        width: 100%;
+        overflow-x: hidden;
+    }
+    .tablas3 {
+        height: 264px;
+    }
+    .button7-5 {
+        right: 30.6%;
+    }
+    .boton2_eliminar {
+        right: 2%;
+    }
+    .empresaPuntuacion {
+        margin-top: 16px;
+    }
+}
+
+@media screen and (max-width: 1366px) {
+    .items li {
+        margin: 12px 0;
+    }
+    .Segundolist3 {
+        height: 40em;
+        width: 21%;
+    }
+    .Ahora {
+        width: 185px;
+    }
+    .boton2_eliminar {
+        right: 2% !important;
+    }
+    .parrafoII {
+        margin-left: 9% !important;
+        margin-top: 7% !important;
+        position: relative !important;
+        left: 0% !important;
+    }
+    .parrafitoII {
+        margin-top: 15% !important;
+    }
+    .empresaPuntuacion {
+        margin-top: 16px;
+    }
+    .tablas3 {
+        height: 264px;
+    }
+    .tablas {
+        height: 284px !important;
+    }
+    .tablas2 {
+        height: 325px;
+    }
+    .empresa3-4 {
+        margin-left: 52%;
+    }
+}
+
+@media screen and (max-width: 1280px) {
+    .button4,
+    .button3,
+    .button5 {
+        top: 191px;
+    }
+    .borde3,
+    .borde2,
+    .borde1 {
+        top: 290px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .button4,
+    .button3,
+    .button5 {
+        top: 192px;
+    }
+    .borde3,
+    .borde2,
+    .borde1 {
+        top: 291px;
+    }
+}
+
+@media screen and (max-width: 1530px) {
+    .tablas {
+        height: 248px;
+    }
+    .opciones {
+        left: 12%;
+        width: 100%;
+    }
+    .contenedorper5 {
+        width: 82%;
+        margin-left: 11%;
+    }
+    .contenedorper {
+        height: 428px;
+    }
+    .EPE .row {
+        width: 102%;
+        height: 54%;
+    }
+    .analisisEfi {
+        top: 44%;
+    }
+    .botonGif2 {
+        width: 68%;
+        right: 17%;
+        margin-top: -23%;
+    }
+    .contenedorper3 {
+        width: 84%;
+        margin-top: 6%;
+        margin-left: 11%;
+    }
+    .opciones3 {
+        left: 15%;
+        /* height: 344px;
+        width: 78%; */
+        overflow-x: hidden;
+    }
+    .botonGif {
+        width: 60%;
+        right: 19%;
+    }
+    .contenedorper4 {
+        width: 76%;
+        height: 414px;
+        margin-top: 3%;
+    }
+    .pesorela {
+        top: 290px;
+    }
+    .califica {
+        top: 290px;
+    }
+    .pesopo {
+        top: 290px;
+    }
+}
+
+@media screen and (max-width: 1920px) {
+    .button2 {
+        top: 650px;
+    }
+    .button2_agregar1 {
+        top: 749px;
+    }
+    .contenedorpe {
+        margin-top: 2%;
+    }
+    .contenedorper5 {
+        height: auto;
+    }
+    .contenedor4 {
+        margin-top: 2%;
+    }
+    #modalEmpresa {
+        height: 430px;
+    }
+    .analisisEfi {
+        position: absolute;
+        top: 42%;
+        left: 45%;
+        z-index: 3;
+    }
+    .scrollfortaleza2 {
+        width: 104%;
+    }
+    .modelocanvas {
+        width: 700px;
+        height: 400px;
+        margin-left: 320px;
+    }
+}
+
+.titulomenu {
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+@media screen and (max-width: 1024px) {
+    .SegundoConten3 {
+        height: 653px;
+        width: 22%;
+    }
+    .modelocanvas {
+        width: 500px;
+    }
+    .modelocanvas2 {
+        width: 500px !important;
+        height: auto;
+        margin-left: 30px;
+        margin-top: 90px;
+    }
+    .modelocanvas3 {
+        width: 500px !important;
+        height: auto;
+        margin-left: 30px;
+        margin-top: 150px;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .SegundoConten3 {
+        height: 1003px;
+        margin-left: -22%;
+        width: 32%;
+    }
+    .Ahora {
+        width: 145px;
+        height: auto;
+    }
+    .contenedorper5 {
+        width: 85%;
+        margin-left: 13%;
+        overflow-y: scroll;
+    }
+    .opciones {
+        left: 15%;
+    }
+    .parrafito {
+        margin-left: 15%;
+    }
+    .modelocanvas {
+        width: 700px;
+        height: auto;
+        margin-left: 30px;
+        margin-top: 110px;
+    }
+    .modelocanvas2 {
+        width: 300px !important;
+        height: auto;
+        margin-left: 30px;
+        margin-top: 110px;
+    }
+    .modelocanvas3 {
+        width: 300px !important;
+        height: auto;
+        margin-left: 30px;
+        margin-top: 200px;
+    }
+    .opciones3 {
+        overflow-x: scroll;
+        position: unset;
+        height: 500px;
+    }
+}
